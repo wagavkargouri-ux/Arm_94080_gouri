@@ -1,0 +1,10 @@
+10:53:11 **** Incremental Build of configuration Debug for project HAL_L_TO_R ****
+make -j12 all 
+arm-none-eabi-size  HAL_L_TO_R.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6016	     12	   1572	   7600	   1db0	HAL_L_TO_R.elf
+Finished building: default.size.stdout
+ 
+
+10:53:11 Build Finished. 0 errors, 0 warnings. (took 389ms)
+

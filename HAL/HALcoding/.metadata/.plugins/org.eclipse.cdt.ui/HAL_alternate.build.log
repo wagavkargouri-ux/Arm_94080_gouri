@@ -1,0 +1,10 @@
+10:31:33 **** Incremental Build of configuration Debug for project HAL_alternate ****
+make -j12 all 
+arm-none-eabi-size  HAL_alternate.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6056	     12	   1572	   7640	   1dd8	HAL_alternate.elf
+Finished building: default.size.stdout
+ 
+
+10:31:33 Build Finished. 0 errors, 0 warnings. (took 322ms)
+

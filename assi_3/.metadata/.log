@@ -1,0 +1,27 @@
+!SESSION 2025-12-30 23:00:16.697 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-30 23:00:56.671
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-30 23:00:56.686
+!MESSAGE Log4j2 initialized with config file D:\sunbeam assignment\assi_3\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-30 23:01:00.336
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-30 23:03:42.831
+!MESSAGE Indexed '3_1' (19 sources, 81 headers) in 3.47 sec: 4,442 declarations; 18,507 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0087%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-30 23:06:01.041
+!MESSAGE Indexed '3_2' (19 sources, 81 headers) in 2.38 sec: 4,442 declarations; 18,507 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0087%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-30 23:07:30.951
+!MESSAGE Indexed '3_3' (19 sources, 81 headers) in 1.81 sec: 4,442 declarations; 18,507 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0087%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-30 23:10:26.189
+!MESSAGE Indexed 'Smart_Env_Monitor' (25 sources, 122 headers) in 2.36 sec: 12,747 declarations; 57,800 references; 5 unresolved inclusions; 1,247 syntax errors; 1,761 unresolved names (2.4%)
